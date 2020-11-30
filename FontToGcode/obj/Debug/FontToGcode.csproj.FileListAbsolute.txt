@@ -1,0 +1,38 @@
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.pdb
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csprojAssemblyReference.cache
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Form1.resources
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Properties.Resources.resources
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.GenerateResource.cache
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.CoreCompileInputs.cache
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.exe
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.pdb
+C:\Users\ngoc vu\Downloads\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe.config
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe.config
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.pdb
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Form1.resources
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Properties.Resources.resources
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.GenerateResource.cache
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.CoreCompileInputs.cache
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.exe
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.pdb
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csprojAssemblyReference.cache
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.dataLibrary.resources
+E:\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.prepare.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe.config
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.pdb
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.dataLibrary.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Form1.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.prepare.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Properties.Resources.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.GenerateResource.cache
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.CoreCompileInputs.cache
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.exe
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.pdb
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.data3DLibrary.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Help.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Information.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.WorkFlow.resources
+E:\backup_subjects\future_technology\C_language\csharp\projects\TextToGcode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csprojAssemblyReference.cache

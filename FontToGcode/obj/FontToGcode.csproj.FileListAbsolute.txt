@@ -1,0 +1,16 @@
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.pdb
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\ResolveAssemblyReference.cache
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Form1.resources
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Properties.Resources.resources
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.GenerateResource.Cache
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.exe
+D:\Customized\Projects\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.pdb
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.exe
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.pdb
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.exe
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\bin\Debug\FontToGcode.pdb
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Form1.resources
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.Properties.Resources.resources
+C:\Users\MuslimEngineer\Desktop\Published Documents\Text To GCode\FontToGcode\FontToGcode\FontToGcode\obj\Debug\FontToGcode.csproj.GenerateResource.Cache
